@@ -19,10 +19,8 @@
         <section class="panel banner right">
           <div class="content color0 span-3-75">
             <h1 style="text-align: center;">Ruby Light Portraits</h1>
-            <p="" style="text-align: center;">A celebration of you. </p="">
-            <div style="text-align: center;"><p="" style="text-align: center;"><img
-                  src="file:///var/www/html/images/logo.jpg" alt=""></p=""></div>
-          </div>
+            <p="" style="text-align: center;">A celebration of you.
+            </br></br><img src="file:///var/www/html/images/logo.jpg" alt=""></p=""></div>
           <div class="image filtered span-1-75" data-position="25% 25%"> <img src="images/sidebanner.jpg"
               alt=""> </div>
         </section>
